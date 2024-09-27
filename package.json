@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^11.0.2",
+    "mysql2": "^3.11.3"
+  }
+}
